@@ -1,0 +1,19 @@
+{
+  "name": "SVGToUXML.Editor",
+  "rootNamespace": "SVGToUXML",
+  "references": [
+    "SVGToUXML.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
+

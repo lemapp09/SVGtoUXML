@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{0470cfe8-ba13-3453-35b7-0c2c616f330c}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVGToUXML.Runtime", "SVGToUXML.Runtime.csproj", "{c59f77d4-9cfb-823f-5466-be21d8d04fe5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVGToUXML.Editor", "SVGToUXML.Editor.csproj", "{eeaaacd1-204d-c495-ffde-d0cd2c575a49}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{a71335ad-d91a-fcfe-b9c9-51923f4dec66}"
 EndProject
@@ -10,8 +12,10 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0470cfe8-ba13-3453-35b7-0c2c616f330c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0470cfe8-ba13-3453-35b7-0c2c616f330c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c59f77d4-9cfb-823f-5466-be21d8d04fe5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c59f77d4-9cfb-823f-5466-be21d8d04fe5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{eeaaacd1-204d-c495-ffde-d0cd2c575a49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{eeaaacd1-204d-c495-ffde-d0cd2c575a49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{a71335ad-d91a-fcfe-b9c9-51923f4dec66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{a71335ad-d91a-fcfe-b9c9-51923f4dec66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
